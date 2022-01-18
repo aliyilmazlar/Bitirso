@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Desktop\\d\\batubilet.business\\batubilet.business.csproj": {}
+    "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\batubilet.business.csproj": {}
   },
   "projects": {
-    "X:\\Desktop\\d\\batubilet.business\\batubilet.business.csproj": {
+    "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\batubilet.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Desktop\\d\\batubilet.business\\batubilet.business.csproj",
+        "projectUniqueName": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\batubilet.business.csproj",
         "projectName": "batubilet.business",
-        "projectPath": "X:\\Desktop\\d\\batubilet.business\\batubilet.business.csproj",
+        "projectPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\batubilet.business.csproj",
         "packagesPath": "C:\\Users\\batuhanvural\\.nuget\\packages\\",
-        "outputPath": "X:\\Desktop\\d\\batubilet.business\\obj\\",
+        "outputPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\batuhanvural\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "X:\\Desktop\\d\\batubilet.data\\batubilet.data.csproj": {
-                "projectPath": "X:\\Desktop\\d\\batubilet.data\\batubilet.data.csproj"
+              "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj": {
+                "projectPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj"
               },
-              "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj": {
-                "projectPath": "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj"
+              "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj": {
+                "projectPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "X:\\Desktop\\d\\batubilet.data\\batubilet.data.csproj": {
+    "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Desktop\\d\\batubilet.data\\batubilet.data.csproj",
+        "projectUniqueName": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj",
         "projectName": "batubilet.data",
-        "projectPath": "X:\\Desktop\\d\\batubilet.data\\batubilet.data.csproj",
+        "projectPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj",
         "packagesPath": "C:\\Users\\batuhanvural\\.nuget\\packages\\",
-        "outputPath": "X:\\Desktop\\d\\batubilet.data\\obj\\",
+        "outputPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\batuhanvural\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj": {
-                "projectPath": "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj"
+              "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj": {
+                "projectPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj": {
+    "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj",
+        "projectUniqueName": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj",
         "projectName": "batubilet.entity",
-        "projectPath": "X:\\Desktop\\d\\batubilet.entity\\batubilet.entity.csproj",
+        "projectPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj",
         "packagesPath": "C:\\Users\\batuhanvural\\.nuget\\packages\\",
-        "outputPath": "X:\\Desktop\\d\\batubilet.entity\\obj\\",
+        "outputPath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\batuhanvural\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9kQxfL3HOwcynfm0iD2nirDIEt1RLjYFtxo2JwPB/a//kJLT4fcsJSCxO57n9tt/2S6qTu5COp/MxIu8NAqVA==",
+  "dgSpecHash": "KY88GfuqGoAp65Ij/TLwKq0kzgilYHwE2YrokfjrYfKZ8H9MLCVftft5OmrgH2ALZGUbM5TyB+606lMp38Q2XA==",
   "success": true,
-  "projectFilePath": "X:\\Desktop\\d\\batubilet.data\\batubilet.data.csproj",
+  "projectFilePath": "X:\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batuhanvural\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\batuhanvural\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

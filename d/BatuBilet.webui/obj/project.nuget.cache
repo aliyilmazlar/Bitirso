@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wTnEhWs43N2btfAwdvI4Lv35wAE0q89RRu6s4noaoKhMCkBnBmXe6s0YA1zxpDAdh698Wsbdas9vPoyxXEi3bA==",
-  "success": true,
-  "projectFilePath": "X:\\Desktop\\d\\BatuBilet.webui\\BatuBilet.webui.csproj",
+  "dgSpecHash": "givW/EngSc4SNL27PfSrHo2X5OB8xQdtBywlgEfTyEaippft1Q2cPrpAU7TifhjVFMZiFFrVoue/u6zLNdWv6A==",
+  "success": false,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\BatuBilet.webui\\BatuBilet.webui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batuhanvural\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\batuhanvural\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -39,5 +39,33 @@
     "C:\\Users\\batuhanvural\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\batuhanvural\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "'\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj' için proje bilgileri bulunamıyor. Visual Studio kullanıyorsanız, bunun nedeni projenin yüklenmemiş veya geçerli çözümün bir parçası olmaması olabilir. Komut satırından bir geri yükleme işlemi çalıştırın. Aksi takdirde proje dosyası geçersiz olabilir veya geri yükleme için gereken hedefler eksik olabilir.",
+      "libraryId": "\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\batubilet.entity\\batubilet.entity.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "'\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\batubilet.business.csproj' için proje bilgileri bulunamıyor. Visual Studio kullanıyorsanız, bunun nedeni projenin yüklenmemiş veya geçerli çözümün bir parçası olmaması olabilir. Komut satırından bir geri yükleme işlemi çalıştırın. Aksi takdirde proje dosyası geçersiz olabilir veya geri yükleme için gereken hedefler eksik olabilir.",
+      "libraryId": "\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\batubilet.business\\batubilet.business.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "'\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj' için proje bilgileri bulunamıyor. Visual Studio kullanıyorsanız, bunun nedeni projenin yüklenmemiş veya geçerli çözümün bir parçası olmaması olabilir. Komut satırından bir geri yükleme işlemi çalıştırın. Aksi takdirde proje dosyası geçersiz olabilir veya geri yükleme için gereken hedefler eksik olabilir.",
+      "libraryId": "\\\\Mac\\Home\\Documents\\GitHub\\Bitirso\\d\\batubilet.data\\batubilet.data.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
