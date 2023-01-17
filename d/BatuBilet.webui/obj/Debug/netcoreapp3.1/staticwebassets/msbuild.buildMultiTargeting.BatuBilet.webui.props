@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BatuBilet.webui.props" />
+</Project>
